@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">hw1_3m</string>
+    <string name="email">Email</string>
+    <string name="theme">Theme</string>
+    <string name="massage">Massage</string>
+    <string name="send">Send</string>
+</resources>
